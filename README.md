@@ -9,10 +9,7 @@ A few months ago, I completed the **Machine Learning Specialization** course. No
 | Title                                                                                      | Progress       |
 |--------------------------------------------------------------------------------------------|----------------|
 | [Machine Learning – Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning) | ✅ Completed   |
-| [Deep Learning Specialization – Andrew Ng (Coursera)](https://www.coursera.org/specializations/deep-learning) | ⏳ In Progress |
-| [CampusX: 100 Days of Machine Learning](https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=1) | ⏳ In Progress |
-| [FastAI: Practical Deep Learning for Coders](https://course.fast.ai/)                      | 🕒 Not Started |
-
+| [Pytorch Tutorial - Daniel Bourke (Youtube)](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=14939s) | ⏳     |
 ---
 
 # Day 1
