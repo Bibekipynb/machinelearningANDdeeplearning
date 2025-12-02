@@ -14,7 +14,7 @@ A few months ago, I completed the **Machine Learning Specialization** course. No
 
 ### Day 1
 
-Today I watched a back propagation video by 3Blue1Brown and practices some calculus behind it.
+Today I watched a back propagation video by 3Blue1Brown and practiced some calculus behind it.
 
 Also, as I am learning pytorch, I read some basic documentations and I made a toy dataset to try training a linear regression model. I have learned that every class in a neural network has to subclasss nn.Module in pytorch. As of now, I wrote a basic code to create a Linear Regression model class with the parameters ( just forward propagation). Tommorow I will be diving deeper into it. 
 
