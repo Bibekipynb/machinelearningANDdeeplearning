@@ -20,3 +20,13 @@ Also, as I am learning pytorch, I read some basic documentations and I made a to
 
 <img width="555" height="480" alt="image" src="https://github.com/user-attachments/assets/9f3f1eaf-e316-461c-8d36-b17cebf8c522" />   <img width="661" height="297" alt="image" src="https://github.com/user-attachments/assets/099eac33-3b05-4542-bafa-e91ccb3db057" />
 
+
+### Day 2 
+
+I continued another video from 3blue1Brown and it was about transformer, the tech behind the transformer. I learned that in LLMs, the innitial prompt is taken as a token and the next word is predicted and this continues. The first step would be embedding, assigning the each words/toekns or any symnbol as a vector in a high dimentional vectorspace, 
+
+<img width="1176" height="626" alt="image" src="https://github.com/user-attachments/assets/938ca7dc-f3f9-4321-9903-4c6f8d795416" />
+
+The next word is chosen by using the softmax activation ( the vector with the highest probablity is chosen ). Also, we can determine the temperature by which the model choses more creative answerers but it decreases the accuracy of the prediction.
+
+<img width="935" height="608" alt="image" src="https://github.com/user-attachments/assets/4da7d9a3-4eee-40d2-b240-86bf5685dcfc" />
