@@ -30,3 +30,10 @@ I continued another video from 3blue1Brown and it was about transformer, the tec
 The next word is chosen by using the softmax activation ( the vector with the highest probablity is chosen ). Also, we can determine the temperature by which the model choses more creative answerers but it decreases the accuracy of the prediction.
 
 <img width="935" height="608" alt="image" src="https://github.com/user-attachments/assets/4da7d9a3-4eee-40d2-b240-86bf5685dcfc" />
+
+
+### Day 3
+
+Today I continued the Pytorch course by Daniel Bourke on Youtube. Previously I wrote code to generate the toy dataset and split into test, train dataset and next I made a Class subclassing nn.mocule to calculate the Linearregression model.
+
+Today I wrote code to predict the output and calculated the loss function to change the parameter for better output.
