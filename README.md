@@ -45,3 +45,8 @@ Today I continued the pytorch video and I made a full training loop involving lo
 
 <img width="749" height="578" alt="image" src="https://github.com/user-attachments/assets/8c4e5c7f-4762-4244-a4aa-2ed070e8b7d7" />
 
+ It was a toy dataset with random parameters so the predictions at first were terrible. After training the model the predictions were better.
+
+ <img width="939" height="652" alt="image" src="https://github.com/user-attachments/assets/bd0d345b-e908-4def-b680-5a21cdb10664" />  <img width="938" height="654" alt="image" src="https://github.com/user-attachments/assets/1daa7394-a71c-4189-9283-ceb4bd060c7c" />
+
+
