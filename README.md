@@ -36,4 +36,12 @@ The next word is chosen by using the softmax activation ( the vector with the hi
 
 Today I continued the Pytorch course by Daniel Bourke on Youtube. Previously I wrote code to generate the toy dataset and split into test, train dataset and next I made a Class subclassing nn.mocule to calculate the Linearregression model.
 
-Today I wrote code to predict the output and calculated the loss function to change the parameter for better output.
+I wrote code to predict the output and calculated the loss function to change the parameter for better output.
+
+
+### Day 4
+
+Today I continued the pytorch video and I made a full training loop involving loss forward pass, loss calculation, optimization performing gradient descent. 
+
+<img width="749" height="578" alt="image" src="https://github.com/user-attachments/assets/8c4e5c7f-4762-4244-a4aa-2ed070e8b7d7" />
+
