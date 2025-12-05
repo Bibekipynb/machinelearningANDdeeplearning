@@ -50,3 +50,6 @@ Today I continued the pytorch video and I made a full training loop involving lo
  <img width="939" height="652" alt="image" src="https://github.com/user-attachments/assets/bd0d345b-e908-4def-b680-5a21cdb10664" />  <img width="938" height="654" alt="image" src="https://github.com/user-attachments/assets/1daa7394-a71c-4189-9283-ceb4bd060c7c" />
 
 
+### Day 5
+
+Today I watched a video about how Transformers work by 3blue1brown.
