@@ -24,7 +24,7 @@ The goal was to predict the **Performance Index** of a student. I did some basic
 
 Logistic Regression Project
 
-Today I made a Diabities Prediction model using Pima Indians Diabetes dataset, I took the dataset from Kaggle and implimented myself using Logistic Regression. The accuracy was quite low for this one, I was looking at other notebooks and found other ML models worked better for this problem. I will probably reuse the same dataset with increased accuracy nect time while implementing different ML model. The accuracy was ~75% for this one. 
+Today I made a Diabeties Prediction model using Pima Indians Diabetes dataset, I took the dataset from Kaggle and implemented myself using Logistic Regression. The accuracy was quite low for this one, I was looking at other notebooks and found other ML models worked better for this problem. I will probably reuse the same dataset with increased accuracy next time while implementing different ML model. The accuracy was ~75% for this one. 
 
 <img width="814" height="751" alt="image" src="https://github.com/user-attachments/assets/3488a7d8-27c4-47a6-ae90-71f885fdcedf" />
 <img width="699" height="514" alt="image" src="https://github.com/user-attachments/assets/1b70fc41-8453-43a9-a39a-1b978b17b7e5" />
